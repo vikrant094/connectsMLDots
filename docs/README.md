@@ -1,30 +1,24 @@
-# The Least You Need to Know About GitHub Pages
+# Connect ML ...
 
-**What this guide is for:** This guide is laser-focused on one thing: showing how to get a working informational website up and running as fast
-as possible using [GitHub Pages](https://pages.github.com), using only the GitHub website. *Informational website* is an informal term meaning that the emphasis is on
-function (structured text with simple formatting, links, images) and not form (intricate page design). It goes step by step from the very beginning
-and assumes very little knowledge on your part.
+**What this guide is for:** 
 
-You don't need to learn command-line programs like Git, or install anything
-on your own computer. Everything taught here does apply to advanced use patterns when you get more experienced.
+This Page mostly targetting the new people entering into machine learning field and keen to understand various ml concepts. I will try to create a story to make these concepts connected to each other. I will give my best to explain them with their physical interpretation as well .
 
-GitHub Pages is free if your repository (file storage area) is public.
 
 **Ways to view this site**
-* [Github Pages](https://tomcam.github.io/least-github-pages/)
-* Directly on [Github](https://github.com/tomcam/least-github-pages/) 
+* [Github Pages](https://vikrant094.github.io/connectsMLDots/)
+* Directly on [Github](https://github.com/vikrant094/connectsMLDots/) 
 
-If you were pointed here by an employer or well-meaning friend and aren't quite sure why, 
-you can find plenty of reasons in [Why Use GitHub Pages?](why-use-github-pages.md)
 
-**What you can get out of this guide:**  If you follow through the steps in this guide you'll have a small website demonstrating everything you need to put up an attractive, easy to maintain site using words, links, and images. 
-Not covered are advanced topics such as using Git on the command line, custom themes, SEO, version control,
-and advanced features of GitHub-flavored Markdown.
+
+**What you can get out of this guide:**  
+
+If you follow through the concepts in this guide you'll have a basic understanding of machine learning elements. 
 
 **If you find problems**
 
-If there's something missing, or you detect an error, please feel free to [file an issue](https://github.com/tomcam/least-github-pages/issues)
-or just email at `tomcampbell@gmail.com`.
+If there's something missing, or you you want to suggest, please feel free to [file an issue](https://github.com/vikrant094/connectsMLDots/issues)
+or just email at `vikrantsaini094@gmail.com`.
 
 ## Table of contents
 
