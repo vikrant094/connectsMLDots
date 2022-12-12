@@ -1,1 +1,3 @@
-You can reach out to me vikrantsaini094@gmail.com
+# Contact
+
+Relative link to screenshot: Look at the ![screenshot](assets/img/screenshot-home-1024x512.png)
