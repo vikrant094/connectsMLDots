@@ -40,7 +40,7 @@ This short GitHub Pages tutorial discusses:
 * [Add images to your GitHub Pages site](adding-images-github-pages-site.md)
 * [Determine your GitHub Pages URL](github-pages-url.md)
 * [Privacy warning](privacy-warning.md)
-* [Add a GitHub Pages preview link to your README.md](add-github-pages-preview.md)
+* [Natural Language Processing](add-github-pages-preview.md)
 * [Natural Language Processing](natural-language-processing.md)
 
 
