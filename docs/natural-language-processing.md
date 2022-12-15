@@ -5,6 +5,7 @@ This Page contains various concepts and use-cases related to Natural Language Pr
 
 # Projects 
 [Journey of Language Models](./journey-of-langauge-models.md)
+[publish to github pages](./publish-to-github-pages.md)
 
 [Previous page](./README.md)
 
