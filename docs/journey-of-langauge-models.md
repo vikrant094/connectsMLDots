@@ -4,6 +4,6 @@ This Page contains basic concepts of language model. We will first build baselin
 state-of-the-art method introduced on the journey.
 
 
-[Previous page](./README.md)
+[Previous page](./natural-language-processing.md)
 
 #### [Home](./README.md) 
