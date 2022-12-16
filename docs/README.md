@@ -23,5 +23,6 @@ or just email at `vikrantsaini094@gmail.com`.
 ## Table of contents
 
 * [Natural Language Processing](natural-language-processing.md)
+* [Graph Neural Network](graph-neural-network.md)
 
 
