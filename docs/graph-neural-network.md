@@ -9,6 +9,6 @@ Recommended books :
        In my journey of Graph neural network, i read this book, I put my notes here for each chapter. [Graph neural networks](./GNN/books/graph-neural-network/README.md) 
 
 
-[Previous page](./README.md)
+[Previous page](./README.md)                                                   [all books](./GNN/books/README.md) 
 
 #### [Home](./README.md) 
