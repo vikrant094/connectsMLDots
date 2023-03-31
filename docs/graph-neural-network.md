@@ -6,7 +6,7 @@ This page is helping guide for understanding graph neural netowrk terminolgies, 
 Recommended books : 
 
 1. Graph neural networks by Lingfei Wu, Peng cui, Jian Pei, Liang Zhao. 
-       In my journey of Graph neural network, i read this book, I put my notes here for each chapter. [Graph neural networks](./GNN/Graph-neural-networks-by-Lingfei-Wu.md) 
+       In my journey of Graph neural network, i read this book, I put my notes here for each chapter. [Graph neural networks](./GNN/books/graph-neural-network/Graph-neural-networks-by-Lingfei-Wu.md) 
 
 
 [Previous page](./README.md)
