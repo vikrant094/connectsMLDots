@@ -2,4 +2,4 @@ This page contains my notes/understanding of books related to graph neural netwo
 
 ## Table of contents
 
-* [Chapter 1 : Representaional Learning](./graph-neural-network/representational-learning.md)
+* [Book 1 : Graph neural networks by Lingfei Wu, Peng cui, Jian Pei, Liang Zhao](./graph-neural-network/README.md)
