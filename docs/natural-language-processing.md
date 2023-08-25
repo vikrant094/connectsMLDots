@@ -13,9 +13,12 @@ Recommended books :
 
 
 # Projects 
-1. [Journey of Language Models](./journey-of-langauge-models.md)
-2. [Journey of Topic Models](./natural-language-processing.md)
-3. [Journey of Recommendation system](./natural-language-processing.md)
+1. [Language Models](./journey-of-langauge-models.md)
+2. [Topic Models](./natural-language-processing.md)
+3. [Recommendation system](./natural-language-processing.md)
+4. [Search system](./search-system.md)
+
+
 [Previous page](./README.md)
 
 #### [Home](./README.md) 
