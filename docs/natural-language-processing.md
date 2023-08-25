@@ -5,8 +5,8 @@ This Page contains various concepts and use-cases related to Natural Language Pr
 
 Recommended books : 
 
-1. Transformers for Natural Langauge Processing by Denis Rothman. 
-       Helps to understand basics concepts and implementation of Trnasformers used for NLP use-cases. I put my notes here for each chapter. [Transformers for Natural Langauge Processing](./NLP/books/README.md)
+1. [Transformers for Natural Langauge Processing by Denis Rothman.](./NLP/books/README.md)
+       Helps to understand basics concepts and implementation of Trnasformers used for NLP use-cases. I put my notes here for each chapter.
    
 [All books](./NLP/books/README.md) 
 
