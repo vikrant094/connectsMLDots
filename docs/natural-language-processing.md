@@ -15,7 +15,6 @@ Recommended books :
 1. [Journey of Language Models](./journey-of-langauge-models.md)
 2. [Journey of Topic Models](./natural-language-processing.md)
 3. [Journey of Recommendation system](./natural-language-processing.md)
-4. [Journey of Search Engine](./search-egine.md)
 
 
 [Previous page](./README.md)
