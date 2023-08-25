@@ -1,4 +1,4 @@
-This page demystifies Graph neural networks by Lingfei Wu, Peng cui, Jian Pei, Liang Zhao.
+This page demystifies Trandsformers for Natural Language Processing by Denis Rothman.
 
 ## Table of contents
 
